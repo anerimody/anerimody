@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 💬 Ask me about **Machine Learning and Deep Learning**
+- 💬 Ask me about **Full Stack Application Development**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Backend Projects**
 
